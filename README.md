@@ -63,3 +63,10 @@ Visual highlight showing a strong Q4 revenue spike (around 30–35% higher than 
 
 Simple layout focusing on readability and quick interpretation for a non‑technical stakeholder.
 
+## PREVIEW
+
+![Sales Dashboard](images/Screenshot%20(159).png)
+![Category Performance](images/Screenshot%20(160).png)
+
+
+
